@@ -16,5 +16,6 @@ public class Espetaculo {
         System.out.printf("Quantidade de convites = %d\n", qtdeConvites);
         System.out.printf("Lucro de 23%%: %d\n", qtdeConvites23);
 
+        entrada.close();
     }
 }
